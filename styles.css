@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 150%;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+  font-size: 150%;
+}
+h4 {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
+}
+p  {
+    color: black;
+    font-family: courier;
+    font-size: 100%;
+    text-align: center;
+}
+
+body {
+  text-align: center;
+}
+li {
+  color: black;
+  font-family: courier;
+  font-size: 100%;
+  text-align: center;
+}
+div {
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80p
+.Question {
+  background-color: tomato;
+    color: white;
+    padding: 10px;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
